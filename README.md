@@ -394,9 +394,7 @@ The project uses **GitHub Actions** to automate testing and deployment on every 
 
 ### Pipeline Stages
 
-```
-
-```
+![alt text](image.png)
 
 ### What Triggers the Pipeline
 
